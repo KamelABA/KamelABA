@@ -1,23 +1,77 @@
 # 👋 Hi, I'm Kamel Abada
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <p>Some things I've built with code, creativity and curiosity.</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚧 Bilagh</h3>
+
+<div align="center">
+  <img src="https://placehold.co/600x300/111827/818CF8?text=BILAGH" width="100%" alt="Bilagh project preview"/>
+</div>
+
+<p align="center">
+  AI-powered road damage reporting and monitoring application.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+</p>
+
+<div align="center">
+  <b>📍 AI Detection | GPS | Interactive Maps</b>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 Plant Disease Detection</h3>
+
+<div align="center">
+  <img src="https://placehold.co/600x300/111827/34D399?text=PLANT+DISEASE+AI" width="100%" alt="Plant disease detection preview"/>
+</div>
+
+<p align="center">
+  Deep learning application for detecting plant diseases using computer vision.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/KamelABA/plant-disease-detection">
+    <b>🔗 View Repository</b>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=KamelABA&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=6366F1&currStreakLabel=818CF8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamelABA&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/KamelABA?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
 
 
 ### 💻 Software Engineering Student | Developer | AI & Tech Enthusiast
