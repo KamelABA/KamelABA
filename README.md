@@ -1,5 +1,25 @@
 # 👋 Hi, I'm Kamel Abada
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=KamelABA&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=6366F1&currStreakLabel=818CF8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamelABA&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+
 ### 💻 Software Engineering Student | Developer | AI & Tech Enthusiast
 
 I'm a Software Engineering student passionate about building useful applications, exploring Artificial Intelligence, and turning ideas into real-world projects.
