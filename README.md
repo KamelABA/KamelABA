@@ -82,13 +82,15 @@ An AI-powered application for detecting plant diseases using computer vision and
 ### 📊 GitHub Statistics
 
 
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="[https://github-readme-stats-kamel.vercel.app](https://github-readme-stats-2s7naovln-kamelabas-projects.vercel.app)/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="[https://github-readme-stats-kamel.vercel.app](https://github-readme-stats-2s7naovln-kamelabas-projects.vercel.app)/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KamelABA&theme=tokyonight&hide_border=true)
