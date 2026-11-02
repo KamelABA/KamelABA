@@ -2,78 +2,6 @@
 
 
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <p>Some things I've built with code, creativity and curiosity.</p>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚧 Bilagh</h3>
-
-<div align="center">
-  <img src="https://placehold.co/600x300/111827/818CF8?text=BILAGH" width="100%" alt="Bilagh project preview"/>
-</div>
-
-<p align="center">
-  AI-powered road damage reporting and monitoring application.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-</p>
-
-<div align="center">
-  <b>📍 AI Detection | GPS | Interactive Maps</b>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌱 Plant Disease Detection</h3>
-
-<div align="center">
-  <img src="https://placehold.co/600x300/111827/34D399?text=PLANT+DISEASE+AI" width="100%" alt="Plant disease detection preview"/>
-</div>
-
-<p align="center">
-  Deep learning application for detecting plant diseases using computer vision.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-</p>
-
-<div align="center">
-  <a href="https://github.com/KamelABA/plant-disease-detection">
-    <b>🔗 View Repository</b>
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/KamelABA?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-
-
 ### 💻 Software Engineering Student | Developer | AI & Tech Enthusiast
 
 I'm a Software Engineering student passionate about building useful applications, exploring Artificial Intelligence, and turning ideas into real-world projects.
@@ -153,14 +81,88 @@ An AI-powered application for detecting plant diseases using computer vision and
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KamelABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KamelABA&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KamelABA&theme=tokyonight&hide_border=true)
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
 
+<div align="center">
+  <p>Some things I've built with code, creativity and curiosity.</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚧 Bilagh</h3>
+
+<div align="center">
+  <img src="https://placehold.co/600x300/111827/818CF8?text=BILAGH" width="100%" alt="Bilagh project preview"/>
+</div>
+
+<p align="center">
+  AI-powered road damage reporting and monitoring application.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+</p>
+
+<div align="center">
+  <b>📍 AI Detection | GPS | Interactive Maps</b>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 Plant Disease Detection</h3>
+
+<div align="center">
+  <img src="https://placehold.co/600x300/111827/34D399?text=PLANT+DISEASE+AI" width="100%" alt="Plant disease detection preview"/>
+</div>
+
+<p align="center">
+  Deep learning application for detecting plant diseases using computer vision.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/KamelABA/plant-disease-detection">
+    <b>🔗 View Repository</b>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/KamelABA?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 ### 🤝 Let's Connect
 
 - 💼 GitHub: [@KamelABA](https://github.com/KamelABA)
