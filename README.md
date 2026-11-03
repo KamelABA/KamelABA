@@ -1,8 +1,21 @@
-# 👋 Hi, I'm Kamel Abada
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=200&section=header&text=Kamel%20Abada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
+<!-- ANIMATED TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;Developer+%F0%9F%92%BB;AI+%26+Tech+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-00D4FF?style=for-the-badge&labelColor=101827" />
+  <img src="https://img.shields.io/badge/INTEREST-AI%20%26%20Technology-8B5CF6?style=for-the-badge&labelColor=101827" />
+</p>
 
-### 💻 Software Engineering Student | Developer | AI & Tech Enthusiast
+<p align="center">
+  <i>Building, learning, experimenting, and creating something meaningful.</i>
+</p>
 
 I'm a Software Engineering student passionate about building useful applications, exploring Artificial Intelligence, and turning ideas into real-world projects.
 
@@ -95,100 +108,47 @@ An AI-powered application for detecting plant diseases using computer vision and
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KamelABA&theme=tokyonight&hide_border=true)
 
----
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <p>Some things I've built with code, creativity and curiosity.</p>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚧 Bilagh</h3>
-
-<div align="center">
-  <img src="https://placehold.co/600x300/111827/818CF8?text=BILAGH" width="100%" alt="Bilagh project preview"/>
-</div>
+----
+## 🌐 Let's Connect & Collaborate
 
 <p align="center">
-  AI-powered road damage reporting and monitoring application.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=3" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-</p>
-
-<div align="center">
-  <b>📍 AI Detection | GPS | Interactive Maps</b>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌱 Plant Disease Detection</h3>
-
-<div align="center">
-  <img src="https://placehold.co/600x300/111827/34D399?text=PLANT+DISEASE+AI" width="100%" alt="Plant disease detection preview"/>
-</div>
-
-<p align="center">
-  Deep learning application for detecting plant diseases using computer vision.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-</p>
-
-<div align="center">
-  <a href="https://github.com/KamelABA/plant-disease-detection">
-    <b>🔗 View Repository</b>
+  <a href="https://github.com/KamelABA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abada-kamel-b3554333b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kamel.mutig14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-beige-five-34.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>💬 Have an idea? Let's build something amazing together!</b>
+  <br/>
+  <i>Open to collaboration • Tech projects • Creative ideas</i>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1E3A8A,100:0F172A&height=3" width="100%" />
+</p>
 
-<a href="https://github.com/KamelABA?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-### 🤝 Let's Connect
-
-- 💼 GitHub: [@KamelABA](https://github.com/KamelABA)
-- 📧 Email: kamel.mutig14@gmail.com
-- 🌐 Portfolio: https://portfolio-beige-five-34.vercel.app
-- 📱 LinkedIn: [KamelAB](https://www.linkedin.com/in/abada-kamel-b3554333b/)
+<p align="center">
+  <sub>© 2026 Kamel Abada · Designed with 💙 & Code</sub>
+</p>
 
 ---
 
 *"Code. Create. Experiment. Repeat."* 🚀
 
 ⭐ Thanks for visiting my profile!
-
-<!--
-**KamelABA/KamelABA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
