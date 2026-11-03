@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=200&section=header&text=Kamel%20Abada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Kamel Abada profile banner" />
 </p>
 
-<h1 align="center">Kamel Abada</h1>
-<p align="center">
-  <strong>Master's Student in Software Engineering</strong>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Software+Engineer+in+Progress;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Software Engineer in progress; Full-Stack Developer; AI and Computer Vision Enthusiast" />
 </p>
